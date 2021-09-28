@@ -3,3 +3,10 @@ matplotlib
 image
 request
 panda
+
+rise
+jupyter_contrib_nbextensions
+ipyevents
+ipywidgets
+appmode
+jupyter-tabmine
