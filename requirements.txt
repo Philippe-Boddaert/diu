@@ -1,4 +1,5 @@
 numpy
 matplotlib
 image
+request
 panda
