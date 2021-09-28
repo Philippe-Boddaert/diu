@@ -13,4 +13,4 @@ jupyter serverextension enable --py --sys-prefix appmode
 jupyter nbextension enable varInspector/main
 jupyter nbextension install --py jupyter-tabnine
 jupyter nbextension enable --py jupyter_tabnine
-jupyter serverextension install --py jupyter_tabnine
+jupyter serverextension enable --py jupyter_tabnine
