@@ -1,7 +1,6 @@
 numpy
 matplotlib
 image
-request
 panda
 
 rise
