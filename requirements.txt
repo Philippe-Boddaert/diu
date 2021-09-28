@@ -8,4 +8,4 @@ jupyter_contrib_nbextensions
 ipyevents
 ipywidgets
 appmode
-jupyter-tabmine
+jupyter-tabnine
