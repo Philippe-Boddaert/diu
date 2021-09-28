@@ -1,1 +1,12 @@
+#!/bin/bash
 
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable collapsible_headings/main
+jupyter nbextension enable init_cell/main
+jupyter nbextension enable toggable_all_line_numbers/main
+jupyter nbextension enable runtools/main
+jupyter nbextension enable splitcell/splitcell
+jupyter nbextension enable highlighter/highlighter
+jupyter nbextension enable --py --sys-prefix appmode
+jupyter serverextension enable --py --sys-prefix appmode
